@@ -1,0 +1,8 @@
+{
+    "name": "phase3",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "latest",
+        "http-proxy-middleware": "^3.0.3"
+    }
+}
